@@ -1,3 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+ @layer base {
+   ::selection {
+     background-color: #f06;
+     color: rgb(0, 0, 0);
+   }
+}
+
