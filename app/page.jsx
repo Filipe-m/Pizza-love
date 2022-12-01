@@ -1,9 +1,13 @@
 import React from 'react'
-import NavBar from './NavBar'
+import Doces from './components/doces'
+import Pizzas from './components/pizzas'
 
 function Home() {
   return (
-    <div className='text-blue-500'>Home page bro</div>
+    <div>
+      <Pizzas />
+      <Doces />
+    </div>
   )
 }
 

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "nome": "Água mineral",
+    "valor": "3,00",
+    "imagem": "https://aguasprata.vteximg.com.br/arquivos/ids/156955-600-600/AGUA-MINERAL-NATURAL-PRATA-OW-PILFER-300mL.jpg?v=637946478494230000"
+  },
+  {
+    "id":1,
+    "nome":"Refrigerante lata",
+    "valor":"5,00",
+    "imagem":"https://hiperideal.vteximg.com.br/arquivos/ids/197362-1000-1000/55723-4.jpg?v=637830468563800000"
+  },
+  {
+    "id":2,
+    "nome":"Refrigerante 1L",
+    "valor":"7,50",
+    "imagem":"https://static.clubeextra.com.br/img/uploads/1/71/12294071.jpeg"
+  },
+  {
+    "id":3,
+    "nome":"Suco de caixinha",
+    "valor":"6,00",
+    "imagem":"http://1.bp.blogspot.com/-J7mPFgQEqPY/VZ5tmHKs7uI/AAAAAAAAAo8/mFJaU-FRx4o/s1600/1.png"
+  },
+  {
+    "id":4,
+    "nome":"Suco de jarra",
+    "valor": "7,00",
+    "imagem":"https://cf.shopee.com.br/file/1f84f1dbf380dc066d9227d04da92613"
+  }
+]

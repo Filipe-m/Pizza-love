@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "nome": "Brigadeiro",
+    "valor": "9,99",
+    "imagem": "https://docepedia.com/wp-content/uploads/2021/04/brigadeiro-d.jpg"
+  },
+  {
+    "id": 1,
+    "nome": "Doce de leite",
+    "valor": "12,99",
+    "imagem": "https://www.acasaencantada.com.br/wp-content/uploads/2021/07/Como-Fazer-Doce-De-Leite-Caseiro-1200x900.webp"
+  },
+  {
+    "id": 2,
+    "nome": "Goiabada",
+    "valor": "9,99",
+    "imagem": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-goiabada-cascao-0.jpg"
+  }
+]

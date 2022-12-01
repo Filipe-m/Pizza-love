@@ -4,7 +4,7 @@ import { BsCart } from 'react-icons/bs'
 function NavBar() {
   return (
     <React.Fragment>
-      <div className="w-full flex bg-red-600  px-4 md:px-8 justify-between fixed top-0 max-h-20 items-center">
+      <div className="w-full flex bg-red-600 z-50 px-4 md:px-8 justify-between fixed top-0 max-h-20 items-center">
         <div className=" flex flex-col items-center gap-2 justify-center ">
           <h2 className=" w-8 h-8 grid place-items-center font-extrabold text-2xl md:text-2xl rounded-full outline outline-black text-primary ">
             1

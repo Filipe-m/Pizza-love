@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "nome": "Frango a passarinho",
+    "valor": "24,99",
+    "imagem": "https://www.debemcomacomida.com.br/wp-content/uploads/2021/05/frango-a-passarinho-e1620854188759.jpg"
+  },
+  {
+    "id": 1,
+    "nome": "Batata frita",
+    "valor": "21,99",
+    "imagem": "https://img.itdg.com.br/images/recipes/000/109/012/353026/353026_original.jpg"
+  },
+  {
+    "id": 2,
+    "nome": "Tábua de frios",
+    "valor": "17,90",
+    "imagem": "http://padariavianney.com.br/web/image/product.template/2870/image_1024?unique=e7e976b"
+  },
+  {
+    "id": 3,
+    "nome": "Amendoim",
+    "valor": "8,99",
+    "imagem": "https://media.gazetadopovo.com.br/viver-bem/2018/07/amendoim-600x400-fa590f60.jpg"
+  },
+  {
+    "id": 4,
+    "nome": "Camarão",
+    "valor": "39,99",
+    "imagem": "https://www.receitamaneira.com.br/wp-content/uploads/2020/11/melhores-receitas-camarao.jpg?ezimgfmt=ng%3Awebp%2Fngcb1%2Frs%3Adevice%2Frscb1-1"
+  }
+]

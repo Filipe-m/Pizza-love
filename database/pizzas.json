@@ -1,0 +1,44 @@
+[
+  {
+    "id": 0,
+    "nome": "Pizza de calabresa",
+    "valor": ["24,00", "32,00", "38,00"],
+    "imagem": "https://i0.wp.com/saudevidatotal.com/wp-content/uploads/2018/08/Pizza-Calabresa..jpg?fit=720%2C480&ssl=1"
+  },
+  {
+    "id": 1,
+    "nome": "Pizza portuguesa",
+    "valor": ["22,00", "30,00", "36,00"],
+    "imagem": "https://receitasmenu.com/wp-content/uploads/2022/03/Pizza-Portuguesa.png"
+  },
+  {
+    "id": 2,
+    "nome": "Pizza Marguerita",
+    "valor": ["24,00", "32,00", "38,00"],
+    "imagem": "https://i0.wp.com/anamariabraga.globo.com/wp-content/uploads/2020/08/pizza-margherita.jpg?fit=1200%2C675&ssl=1"
+  },
+  {
+    "id": 3,
+    "nome": "Pizza de frango com catupiry",
+    "valor": ["22,00", "30,00", "36,00"],
+    "imagem": "https://img.itdg.com.br/tdg/images/blog/uploads/2018/04/pizza-de-frango-com-catupiri-receita.jpg?w=1200"
+  },
+  {
+    "id": 4,
+    "nome": "Pizza napolitana",
+    "valor": ["24,00", "32,00", "38,00"],
+    "imagem": "https://blog.livup.com.br/wp-content/uploads/2021/06/pizza-napolitana.jpg"
+  },
+  {
+    "id": 5,
+    "nome": "Pizza de sushi",
+    "valor": ["26,00", "34,00", "40,00"],
+    "imagem": "https://clube-static.clubegazetadopovo.com.br/portal/wp-content/uploads/2020/04/materiasrepositorio-1563219764.jpeg"
+  },
+  {
+    "id": 6,
+    "nome": "Pizza de mussarela",
+    "valor": ["24,00", "32,00", "38,00"],
+    "imagem": "https://a-static.mlcdn.com.br/1500x1500/pizza-mussarela-saborosa-e-caprichada/restauranteepizzariasensacao/67457686bdba11ebbe3e4201ac18500e/db5057c56106618402614ffc562c66da.jpeg"
+  }
+]
